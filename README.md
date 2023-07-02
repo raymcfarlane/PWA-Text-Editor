@@ -14,9 +14,9 @@ Text editor application that works in a browser. The app is a single-page applic
 ```
 
 ## Usage
- - [Video Walk-through]()
-
-  - Images:
+- [Video Walk-through]()
+- Heroku Cannot deploy at the moment since locked out of authenticator
+- Images:
   ![]()
   
 
